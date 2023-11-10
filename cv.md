@@ -1,11 +1,11 @@
 # Egor Erkovich
 
 ## Contacts
-- Location: Minsk, Belarus
-- Phone: +375 (29) 113-46-01
-- E-mail: erkovich.egor@yandex.by
-- Telegram: Ederkovich
-- Github: [EgorErkovich](https://github.com/EgorErkovich)
+- **Location:** Minsk, Belarus
+- **Phone:** +375 (29) 113-46-01
+- **E-mail:** erkovich.egor@yandex.by
+- **Telegram:** Ederkovich
+- **Github:** [EgorErkovich](https://github.com/EgorErkovich)
 
 ## About me
 I am 23 years old and I started my career 2 years ago as an SAP consultant and I am currently working in this position. 
@@ -34,16 +34,16 @@ function bingo(ticket, win){
 ```
 
 ## Education
-- University: Belarusian State University (BSU)
+- **University:** Belarusian State University (BSU)
     * Faculty of applied mathematics and computer science (FAMCS)
     * Mathematician financier major
-- Courses
+- **Courses**
     * [HTML Academy](https://htmlacademy.ru/)
     * [Stepik: HTML CSS JS](https://stepik.org/course/135466/syllabus)
 
 ## Languages
-- Russian - Native
-- Belarusian - Native
-- English - Upper-intermediate (B2)
-- German - Advanced (C1) (according Sprachdiplom and Streamline course)
-- Polish - basic (A1)
+- **Russian** - Native
+- **Belarusian** - Native
+- **German** - Advanced (C1) (according Sprachdiplom and Streamline course)
+- **English** - Upper-intermediate (B2)
+- **Polish** - basic (A1)
