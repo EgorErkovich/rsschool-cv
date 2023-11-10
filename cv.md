@@ -19,3 +19,31 @@ I believe that my ability to learn and interest in obtaining new skills will let
 - VS Code;
 - Figma;
 - Python;
+
+## Code example
+```
+function bingo(ticket, win){
+  let count = 0;
+  for (let item of ticket) {
+    if (item[0].includes(String.fromCharCode(item[1]))) {
+      count++;
+    }
+  }
+  return count >= win ? 'Winner!' : 'Loser!';
+}
+```
+
+## Education
+- University: Belarusian State University (BSU)
+    * Faculty of applied mathematics and computer science (FAMCS)
+    * Mathematician financier major
+- Courses
+    * [HTML Academy](https://htmlacademy.ru/)
+    * [Stepik: HTML CSS JS](https://stepik.org/course/135466/syllabus)
+
+## Languages
+- Russian - Native
+- Belarusian - Native
+- English - Upper-intermediate (B2)
+- German - Advanced (C1) (according Sprachdiplom and Streamline course)
+- Polish - basic (A1)
