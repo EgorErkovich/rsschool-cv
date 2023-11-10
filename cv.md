@@ -44,6 +44,6 @@ function bingo(ticket, win){
 ## Languages
 - **Russian** - Native
 - **Belarusian** - Native
-- **German** - Advanced (C1) (according Sprachdiplom and Streamline course)
+- **German** - Advanced (C1) (Sprachdiplom and Streamline course)
 - **English** - Upper-intermediate (B2)
 - **Polish** - basic (A1)
